@@ -8,5 +8,8 @@ List Of Data Structures
 4. Queues
 5. Priority Queue
 6. BinaryHeap
-7. Disjoint Sets
-8. Graphs
+7. BST
+8. AVL Tree
+9. Fully Threded Binary Tree
+10. Disjoint Sets
+11. Graphs
